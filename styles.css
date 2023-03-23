@@ -1,0 +1,60 @@
+body {
+    background-color: #FFBABA;
+    text-align: center;
+    font-family: 'Handlee';
+    color: #A75D5D;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.dice {
+    display: inline-block;
+    margin: 0% 5%;
+}
+
+h1 {
+    color: #A75D5D;
+    font-family: 'Luckiest Guy' ;
+    font-size: 7rem;
+    font-weight: lighter;
+    margin: 3%;
+    text-shadow: 5px 0 #513252;
+}
+
+/* 'Handlee'
+'Carter One'
+'Luckiest Guy'
+'Shantell Sans';
+'Rubik Iso' */
+
+p {
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+.btn {
+    font-family: 'Luckiest Guy';
+    width: 15%;
+    margin-top: 5%;
+    font-size: 250%;
+    color: white;
+    text-shadow: 3px 0 #513252;
+    background-color: #A75D5D;
+    border-color: white;
+    border-radius: 5px;
+    border-width: 5px;
+}
+
+footer {
+    font-weight: bold;
+    font-size: large;
+    margin: 5%;
+}
+
+.headingImg {
+    width: 10%;   
+    margin-left: 3%;
+}
